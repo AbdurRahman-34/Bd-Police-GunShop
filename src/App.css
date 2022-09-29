@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+.cards-container{
+  margin-top: 100px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+  place-items: center;
+}

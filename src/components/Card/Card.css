@@ -1,0 +1,31 @@
+.card{
+    width: 300px;
+    height: 580px;
+    background-color: #F1F1F1;
+    border: 4px solid rgb(0 0 255 / 12%);
+    border-radius: 20px 0px 20px 0px;
+    position: relative;
+}
+.img-container img {
+    width: 250px;
+    border-radius: 20px 20px 0px 0px;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.card-content{
+    padding: 10px 25px;
+}
+.card-btn {
+    background-color: #2E3192;
+    padding: 12px 0px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    border-radius: 10px 10px 0px 0px;
+    border: none;
+    color: #fff;
+}
+.cart-icon{
+    margin-right: 20px;
+    font-size: 18px;
+}

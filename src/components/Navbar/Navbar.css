@@ -1,0 +1,25 @@
+.navbar-container{
+    height: 100px;
+    background-color: #ededee;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo-area{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 500px;
+}
+.navbar-container img{
+    width: 80px;
+}    
+.navbar-container h2{
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+.cart-count span {
+    background-color: #351abe70;
+    padding: 1px 6px;
+    border-radius: 63px;
+}

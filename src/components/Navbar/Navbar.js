@@ -8,7 +8,7 @@ const Navbar = ({openModal, cart}) => {
             <nav className='navbar-container'>
             <div className='logo-area'>
             <img src={Logo} alt="" />
-            <h2>Bangladesh Police Gun Shop</h2>
+            <h2>BD Police Gun Shop</h2>
             </div>
 
 
